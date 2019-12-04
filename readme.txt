@@ -29,6 +29,8 @@ User interfact HTML file must be in public/index.html
 
 */
 
+2 Channel USB Powered Relay Module
+https://numato.com/product/2-channel-usb-powered-relay-module
 
 
 node interface to numato board
